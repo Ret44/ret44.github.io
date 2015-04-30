@@ -1,0 +1,80 @@
+$(document).ready(function() {
+    // contentSlider by: roXon
+    //########### SET SLIDER SPEED HERE!
+    
+    var slideSpeed = 1300;
+    
+    //#################################
+    
+    
+    
+    // STRETCH SLIDER width:
+    var boxCount = $('.box').length;    // count num of boxes
+    var boxW = $('#content_slider').width();    // count Cslider width
+    $('#slider').width(boxCount*boxW);    // set #slider total width
+    //#   
+    
+    //Add style to first li 'button'
+    $('#nav li:eq(0)').addClass('btnActive');
+    //#
+    
+    // AUTO GENERATE a custom-numerated ID to each button 'li' and .box
+    var liNum = 0;$('#nav li').attr('id', function() {liNum++;return 'nav-' + liNum;});
+    var boxNum = 0;$('.box').attr('id', function() {boxNum++;return 'box-' + boxNum;});
+    //#     
+    
+    // FANCY 'on animation' BOX STYLE (pt.1/3)
+    $(".box").not(':eq(0)').fadeTo(0, 0.7);    // on page load fade to 0.8 all boxes EXCEPT the first one.
+    //#
+    
+    
+    // ADJUST HEIGHT after scroll
+    var initHeight = $('#box-1').height()+50;
+    $('#content_slider').animate({height: initHeight },0);    
+    
+    function adjustHeight(){
+        var id = $('.btnActive').attr('id');
+        var xn = id.substring(id.indexOf("-", 0) + 1);
+        var boxN = $("#box-" + xn);        
+        var adj = $("#box-" + xn).height()+50;
+        $('#content_slider').delay(slideSpeed /2).animate({height: adj }, slideSpeed /2);
+    }
+    //#
+    
+    
+    // SLIDE!
+    function slide() {
+        var id = $('.btnActive').attr('id');
+        var xn = id.substring(id.indexOf("-", 0) + 1);
+        var boxN = $("#box-" + xn);
+        var boxOffset = boxN.offset().left;
+        var sliderOffset = $("#slider").offset().left;
+        $('#slider').animate({left:(sliderOffset - boxOffset) + 'px'}, slideSpeed, function(){     
+            // FANCY 'on animation' BOX STYLE (pt.2/3)
+            $('.box').fadeTo(0, 0.7);
+            $("#box-" + xn).fadeTo(300, 1);
+            //#            
+        });
+        
+        adjustHeight();
+    }
+    //$
+    
+    
+    //#
+
+
+    
+    // CLICK EVENT
+    $('#nav li:not(.btnActive)').live('click',function(){        
+        $('#nav li').removeClass('btnActive');
+        $(this).addClass('btnActive');        
+        // FANCY 'on animation' BOX STYLE (nav) (pt.3/3)
+        $('#nav li').not('.btnActive').stop().fadeTo(100, 0.5).delay(400).fadeTo(1400, 1);
+        //#
+        
+        slide();  // !! SLIDE FUNCTION CALLED !!
+        showTitle();
+    });
+    //#
+});

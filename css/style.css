@@ -1,0 +1,115 @@
+body {
+    background-color: #fff0d9;
+    margin-top, margin-bottom, margin-left, margin-right: 100px;
+}
+
+#header-container {
+    display: table;
+}
+
+#header-row {
+    display: table-row;
+}
+
+#header-title, #header-logo {  
+    vertical-align: top;
+    display: table-cell;
+    margin-left: 50px;
+    margin-right: 50px;
+    padding: 5px
+    
+}
+
+h5 {
+    display: inline;
+    cursor: pointer;
+    font-family: 'Arial Narrow', Arial, monospace;
+    font-style: normal;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+h5:hover {
+    text-decoration:overline underline;
+}
+
+p.title {
+    font-family:  'Arial Narrow', Arial, monospace;
+    font-weight: 700;
+    font-size: 28px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+
+p.subtitle {    
+    font-family: 'Arial Narrow', Arial, monospace;
+    font-style: normal;
+    font-size: 18px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+p.menu {    
+    font-family: Console, monospace;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    margin-top: 20x;
+    margin-bottom: 0px;
+}
+
+p.menuItem
+{
+    font-family: Console, monospace;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 27px;
+    margin-top: 15px;
+    margin-bottom: 0px;
+}
+
+a:link {
+    text-decoration: none;
+    color:black;
+}
+
+a:visited {
+    text-decoration: none;
+    color:black;
+}
+
+a:hover {
+    text-decoration:overline underline;
+    color:black;
+}
+
+a:active {
+    text-decoration: none;
+    color:black;
+}
+
+#main-container {
+    font-family: 'Arial Narrow', Arial, monospace;
+    font-style: normal;
+    font-size: 16px;
+    margin-top: 0px;
+    padding: 5px;
+    margin-bottom: 0px;
+    width: 800px;
+}
+
+#main-work, #main-resume, #main-contact {
+    display: none;
+}
+
+#main-contact {
+    text-align: center;
+    height: 300px;
+}
+
+#photo {
+    float:right;
+    width:25%;
+}
