@@ -1,0 +1,40 @@
+@charset "utf-8";
+body {
+	background-attachment: fixed;
+	background-image: url(img/background.png);
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: cover;
+}
+.upper-menu {
+	font-family: Josefin Sans, Verdana, Geneva, sans-serif;
+	background-color: #2d2d2d;
+	position: absolute;
+	visibility: visible;
+	height: 70px;
+	width: 100%;
+	margin-top: 0px;
+	margin-left: 0%;
+	margin-right: 0px;
+	left: 0px;
+	top: 25px;
+	box-shadow: 0px 7px 23px -6px #000;
+}
+.upper-menu-name {
+	font-size: 30px;
+	position: static;
+	top: auto;
+	margin-left: 25px;
+	left: 25%;
+	width: 400px;
+	color: #FFF;
+}
+.upper-menu-links {
+	font-size: 30px;
+	top: auto;
+	float: right;
+	margin-left: 25px;
+	left: 25%;
+	width: 700px;
+	color: #FFF;
+}
