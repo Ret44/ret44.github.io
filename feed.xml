@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bartłomiej Sieczka</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>https://example.github.io/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 28 Apr 2016 22:47:01 +0200</pubDate>
+    <lastBuildDate>Thu, 28 Apr 2016 22:47:01 +0200</lastBuildDate>
+    <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>Szczypce</title>
+        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <pubDate>Thu, 02 Jun 2011 00:00:00 +0200</pubDate>
+        <link>https://example.github.io/web%20development/2011/06/02/szczypce/</link>
+        <guid isPermaLink="true">https://example.github.io/web%20development/2011/06/02/szczypce/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Hot Pot Rampage</title>
+        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <pubDate>Wed, 01 Jun 2011 00:00:00 +0200</pubDate>
+        <link>https://example.github.io/web%20development/2011/06/01/hot-pot-rampage/</link>
+        <guid isPermaLink="true">https://example.github.io/web%20development/2011/06/01/hot-pot-rampage/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>Bitwy Komiksowe</title>
+        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <pubDate>Thu, 28 Apr 2011 00:00:00 +0200</pubDate>
+        <link>https://example.github.io/web%20development/2011/04/28/bitwy-komiksowe/</link>
+        <guid isPermaLink="true">https://example.github.io/web%20development/2011/04/28/bitwy-komiksowe/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>PAD-Planetary Active Dancefense</title>
+        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <pubDate>Thu, 28 Apr 2011 00:00:00 +0200</pubDate>
+        <link>https://example.github.io/programming,%20design/2011/04/28/pad/</link>
+        <guid isPermaLink="true">https://example.github.io/programming,%20design/2011/04/28/pad/</guid>
+        
+        
+        <category>Programming, Design</category>
+        
+      </item>
+    
+      <item>
+        <title>In space no one can hear you cry</title>
+        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <pubDate>Thu, 28 Apr 2011 00:00:00 +0200</pubDate>
+        <link>https://example.github.io/programming,%20design/2011/04/28/in-space/</link>
+        <guid isPermaLink="true">https://example.github.io/programming,%20design/2011/04/28/in-space/</guid>
+        
+        
+        <category>Programming, Design</category>
+        
+      </item>
+    
+      <item>
+        <title>Strategic War in Europe</title>
+        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <pubDate>Sun, 03 Apr 2011 00:00:00 +0200</pubDate>
+        <link>https://example.github.io/programming/2011/04/03/swie/</link>
+        <guid isPermaLink="true">https://example.github.io/programming/2011/04/03/swie/</guid>
+        
+        
+        <category>Programming</category>
+        
+      </item>
+    
+      <item>
+        <title>Worlds of Magic</title>
+        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!</description>
+        <pubDate>Wed, 02 Feb 2011 00:00:00 +0100</pubDate>
+        <link>https://example.github.io/programming/2011/02/02/project-worlds-of-magic/</link>
+        <guid isPermaLink="true">https://example.github.io/programming/2011/02/02/project-worlds-of-magic/</guid>
+        
+        
+        <category>Programming</category>
+        
+      </item>
+    
+      <item>
+        <title>Events</title>
+        <description>Use this area of the page to describe your project. The icon above is part of a free icon set by &lt;a href=&quot;https://sellfy.com/p/8Q9P/jV3VZ/&quot;&gt;Flat Icons&lt;/a&gt;. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!&lt;li&gt;&lt;/ul&gt;&lt;ul&gt; Łodzki Game Jam  - January 2014&lt;/ul&gt;&lt;ul&gt;  Komiks Festiwal Game Jam  - October 2014&lt;/ul&gt;&lt;ul&gt; Łodzki Game Jam 2 - January 2015&lt;/ul&gt;&lt;ul&gt; Komiks Game Jam 2 - October 2015&lt;/ul&gt;&lt;ul&gt; Łodzki Game Jam 3 - January 2016&lt;/ul&gt;&lt;/li&gt;</description>
+        <pubDate>Sat, 01 Jan 2011 00:00:00 +0100</pubDate>
+        <link>https://example.github.io/web%20development/2011/01/01/events/</link>
+        <guid isPermaLink="true">https://example.github.io/web%20development/2011/01/01/events/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
