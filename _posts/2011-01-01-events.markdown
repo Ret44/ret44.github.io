@@ -1,0 +1,15 @@
+---
+layout: default
+title: Events
+modal-id: 1
+date: 2011-01-01
+img: events.png
+img-thumb: events.png
+alt: image-alt
+project-date: Various
+client: Various
+category: Web Development
+events: <a href="https://www.facebook.com/events/340582399441849/">  Komiks Festiwal Game Jam</a>  - 3-5 October 2014 (as a part of The 26th International Festival of Comics and Games in Lodz)<br><a href="https://www.facebook.com/events/1493228311000430/"> Łodzki Game Jam 2</a> - 23-25 January 2015 (as a part of Global Game Jam 2015)<br><a href="https://www.facebook.com/events/1493228311000430/"> Komiks Game Jam 2</a> -  2-4 October 2015 (as a part of The 27th International Festival of Comics and Games in Lodz)<br><a href="https://www.facebook.com/events/1181041001923909/"> Łodzki Game Jam 3</a> - 29-31 January 2016 (as a part of Global Game Jam 2016)<br><a href="https://www.facebook.com/events/1767001360246159/"> Komiks Game Jam 3</a> - 30 September - 2 October 2016 (as a part of The 28th International Festival of Comics and Games in Lodz)<br><a href="https://www.facebook.com/events/1240974829274068/"> Łódzki Game Jam 4 </a> - 20-22 January 20176 (as a part of Global Game Jam 2017)
+description: Since 2014, I was a part of organization team of several game jams, hosted in Łódź. All of those events was organized by Students Association of Game Researchers of University of Lodz, and took place at <a href="http://wi-ma.pl/">WI-MA</a> (during Global Game Jam), and <a href="http://www.atlasarena.pl/">Atlas Arena</a> (during Comic Festivals).<br> <!--<ul><a href="https://www.facebook.com/events/647527701951957/">Łodzki Game Jam</a>  - January 2014</ul>-->
+---
+

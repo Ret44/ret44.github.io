@@ -1,0 +1,18 @@
+---
+layout: default
+title: Szczypce
+modal-id: 14
+date: 2011-06-02
+img: szczypce.png
+img-thumb: szczypce-thumb.png
+alt: image-alt
+project-date: December 2015
+client: Insecure Shark
+category: Web Development
+link: Itch.io
+linkadress: https://insecureshark.itch.io/szczypce
+linktype: Play it on
+technology: Unity, C#
+description: Szczypce is a small shoot'em up game, developed during Ludum Dare 34. It's second title developed under Insecure Shark label.
+
+---

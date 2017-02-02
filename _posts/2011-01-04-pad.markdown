@@ -1,0 +1,16 @@
+---
+layout: default
+title: PAD-Planetary Active Dancefense
+modal-id: 11
+date: 2011-04-28
+img: wom.jpg
+img-thumb: pad-thumb.png
+youtube: <iframe width="560" height="315" src="https://www.youtube.com/embed/9qrJXvuzwM4" frameborder="0" allowfullscreen></iframe>
+alt: image-alt
+project-date: September 2014
+client: IQ Publishing
+category: Programming, Design
+technology: Unity, C#
+description: Plantery Active Dancefense is a small game that was made for dancepad game compilation released by IQ Publishing. This game was showcased during Poznań Game Arena 2014. Developed with <a href="http://spierek.net/">Luke Spierwka</a> with music by <a href="http://havingfunwithrecords.com/kozilek/">Jukio Kallio</a>.
+
+---

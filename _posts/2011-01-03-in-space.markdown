@@ -1,0 +1,16 @@
+---
+layout: default
+title: In space no one can hear you cry
+modal-id: 10
+date: 2011-04-28
+img: wom.jpg
+img-thumb: inspace-thumb.png
+youtube: <iframe width="560" height="315" src="https://www.youtube.com/watch?v=K9CaRRmwCgc" frameborder="0" allowfullscreen></iframe>
+alt: image-alt
+project-date: February 2014
+client: n/a
+category: Programming, Design
+technology: Unity, C#, EyeTribe 
+trophy: Nordic Game Jam 2014 - 3rd place for Audience Award<br>Nordic Game Jam 2014 - EyeTribe Honorable Mention<br>Nordic Game Jam 2014 - Best Unexpected Suprise
+description: In Space... is a small game created for Nordic Game Jam 2014 (theme  Privacy), that uses eye tracking device to cheat the player in every spot player is not looking at. Created with Marek Bączyński.
+---

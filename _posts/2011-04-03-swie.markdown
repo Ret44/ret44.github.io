@@ -1,0 +1,15 @@
+---
+layout: default
+title: Strategic War in Europe
+modal-id: 15
+date: 2011-04-03
+img: swie.jpg
+img-thumb: swie-thumb.png
+alt: image-alt
+project-date: September 2005 - September 2015
+client: Wastelands Interactive
+category: Programming
+technology: C++, DirectX, Steamworks
+description: Strategic War in Europe was a WW2 turn-based strategy game. The game was developed on custom tech, written in C++ and based on DirectX. In this project, I was responsible for gameplay, and for full Steamworks integration - achievements, cloud and workshop.
+
+---

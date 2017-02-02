@@ -1,0 +1,63 @@
+# Site settings
+title: Bartłomiej Sieczka
+email: sieczka.bartlomiej@gmail.com
+url: https://ret44.github.io
+description: "I’m dedicated and ambitious programmer specialized in video game development, but I’m always open for new, various challenges. I’ve also developed a strong interest in game design theory - how to made games fun and accessible for everyone."
+skills: "Programmer / Game Designer"
+meta_author: Sieczka Bartłomiej
+
+# Google webmaster tools
+google_verify:
+
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Contact form:
+# - static : pass through formspree.io to validate email sending
+# - disqus : replace contact form by disqus thread
+# - comment the line below if you want to stick with the default PHP contact form
+contact: static
+
+# If you use disqus you need disqus shortname
+# https://help.disqus.com/customer/portal/articles/466208
+disqus_shortname: myshortname
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: 1a1a1a #80B3FF
+  primary-rgb: "128,128,120" #"128,179,255"
+  secondary: 202020 #FD6E8A
+  secondary-dark: 2f2f2f #A2122F
+
+header:
+  image: img/backimage.png
+
+# Footer settings
+footer:
+  copyright: Bartłomiej Sieczka
+  location: Location
+  social: Around the Web
+  credits: Credits
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/ret44
+  - title: facebook
+    url: https://www.facebook.com/profile.php?id=100000711543245
+  - title: steam
+    url: http://steamcommunity.com/id/Ret44
+  - title: github
+    url: http://github.com/ret44
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 3481 Melrose Place
+  - line: Beverly Hills, CA 90210
+
+# Credits content
+credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+
+# Build settings
+markdown: kramdown
+permalink: pretty
